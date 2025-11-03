@@ -30,7 +30,7 @@ export default function RootLayout({ children }){
   return (
     <html lang="th">
       <body>
-        <Headers />
+         
         <Header/>
         <AdsTagInjector/>
         <JsonLdOrganization/>
